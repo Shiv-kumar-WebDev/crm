@@ -46,15 +46,15 @@
 						</div>
 						</a>
 					</li>
-					<!-- <li class="nav-item">
-						<a href="#" class="navbar-nav-link navbar-nav-link-icon rounded ms-1">
+					<li class="nav-item">
+						<a href="{{ route('register') }}" class="navbar-nav-link navbar-nav-link-icon rounded ms-1">
 							<div class="d-flex align-items-center mx-md-1">
 							<i class="ph-user-circle-plus"></i>
 							<span class="d-none d-md-inline-block ms-2">Register</span>
 						</div>
 						</a>
 					</li>
-					<li class="nav-item">
+					<!-- <li class="nav-item">
 						<a href="#" class="navbar-nav-link navbar-nav-link-icon rounded ms-1">
 							<div class="d-flex align-items-center mx-md-1">
 							<i class="ph-user-circle"></i>
